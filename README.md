@@ -168,18 +168,6 @@ mysql -u root -p heart_db < heart_sql1.sql
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — feel free to use and build upon it.
-
----
-
-## 🙋‍♂️ Author
-
-**[Your Name]**  
-Data Analyst | Aspiring Data Scientist  
-📧 your.email@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/your-username)
 
 ---
 
